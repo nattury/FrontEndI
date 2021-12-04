@@ -506,13 +506,6 @@ footer .left-footer .social-networks a:hover svg path {
   .difference-element h4 {
     flex-grow: 1;
     background: rgb(255, 239, 234);
-
-    /* background: linear-gradient(
-      290deg,
-      rgba(246, 153, 153, 1) 24%,
-      rgba(245, 225, 225, 1) 79%,
-      rgba(255, 255, 255, 0.6209677419354839) 91%
-    ); */
     text-align: center;
     border-radius: 25px;
     padding: 10px 0;
